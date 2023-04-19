@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.discordapp.com/attachments/916137228688830474/1098241813632008272/Black_Elegant_Personal_LinkedIn_Banner.png)
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">Student Back-End Developer | C++ and Java & MySQL | Full-Time studying Java Application</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI4NDY5ZWIxZDQ4ZDQ4OGViNmVlOWRiZWU2YTdiNWNkY2I4ODI3NCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
